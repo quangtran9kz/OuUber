@@ -6,5 +6,4 @@ https://www.youtube.com/watch?v=2TkNZ-Vael4&list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5
 Account Login:
 customer@gmail.com or 
 admin@gmail.com |||
-Password :123456
-Or register one :D
+Password :123456 and you can register one
