@@ -7,4 +7,4 @@ Account Login:
 customer@gmail.com or 
 admin@gmail.com |||
 Password :123456 and you can register one
-||||gradle>wrapper>gradle-wrapper.properties for changing your gradle version
+||||gradle>wrapper>gradle-wrapper.properties "distributionUrl" for changing your gradle version
